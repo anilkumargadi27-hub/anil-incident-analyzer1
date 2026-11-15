@@ -1,4 +1,4 @@
-# LogSense AI
+# Anil Incident Analyzer
 
 **Public, hackathon-safe incident intelligence powered by synthetic logs, AI agents, and workflow orchestration.**
 
